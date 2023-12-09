@@ -1,6 +1,30 @@
+### Ticketing Application
+
+This was a basic ticketing application made with NextJS, Tailwind CSS, and MongoDB. It uses NextJS 14 built in routing, API, and the mongoose library to connect and send requests through to the back-end. It implements basic CRUD Functionality.
+
+<img width="1603" alt="Screenshot 2023-12-09 at 3 41 05 PM" src="https://github.com/apoorvpachori/ticket-app/assets/41656573/3e88504a-8e38-43da-a9be-e5a9620056e4">
+
+New Ticket Creation:
+
+<img width="1607" alt="Screenshot 2023-12-09 at 3 41 58 PM" src="https://github.com/apoorvpachori/ticket-app/assets/41656573/d5510121-49db-4473-a089-42958ced3c9e">
+
+<img width="1605" alt="Screenshot 2023-12-09 at 3 42 34 PM" src="https://github.com/apoorvpachori/ticket-app/assets/41656573/7e647d8d-b31f-48a4-836a-0dc49e5f6faa">
+
+Read and Update Tickets:
+
+<img width="1607" alt="Screenshot 2023-12-09 at 3 43 04 PM" src="https://github.com/apoorvpachori/ticket-app/assets/41656573/62f90841-2a2a-423c-82c6-57c323377a1a">
+
+Delete Tickets with the X:
+
+<img width="1604" alt="Screenshot 2023-12-09 at 3 44 11 PM" src="https://github.com/apoorvpachori/ticket-app/assets/41656573/308ef8c8-0e90-4eb0-bb32-85e8223d2526">
+
+<img width="1607" alt="Screenshot 2023-12-09 at 3 44 43 PM" src="https://github.com/apoorvpachori/ticket-app/assets/41656573/2d1748c1-56fa-4bdc-a825-706eb03d6136">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Installtion
 
 First, run the development server:
 
